@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SunopsisExport>
 <Admin RepositoryVersion="05.02.02.05" IsLegacyIdCompatible="false" />
-<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="A/dGBNqH9lMOnI0/HzZaMw==" exportKeySalt="23cdd99e-71c3-4582-b3f0-1453f8d69c10" containsCipherText="false"/>
+<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="SjkBXX+kUPH4CmcWm+zjuA==" exportKeySalt="913d0f16-23df-42ce-8f44-6dca685ea2af" containsCipherText="false"/>
 <Object class="com.sunopsis.dwg.dbobj.SnpGrpState">
 		<Field name="ExtVersion" type="java.lang.String">null</Field>
 	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2019-06-13 20:00:05.0]]></Field>
@@ -11,13 +11,13 @@
 	<Field name="GrpStateCode" type="java.lang.String"><![CDATA[PRIORITIES]]></Field>
 	<Field name="GrpStateName" type="java.lang.String"><![CDATA[Priorities]]></Field>
 	<Field name="IndAutoIncrement" type="java.lang.String"><![CDATA[0]]></Field>
-	<Field name="IndChange" type="java.lang.String">null</Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="IndInternal" type="java.lang.String"><![CDATA[0]]></Field>
 	<Field name="IndMultiStates" type="java.lang.String"><![CDATA[0]]></Field>
-	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
+	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[2]]></Field>
 	<Field name="IGrpState" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
 	<Field name="IProject" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-06-13 20:00:05.0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-07-24 04:49:15.0]]></Field>
 	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="TreeDisplay" type="java.lang.String"><![CDATA[A]]></Field>
 </Object>
@@ -26,12 +26,12 @@
 	<Field name="FirstUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[50d09b2a-16f5-4230-b650-67362fb64ef1]]></Field>
 	<Field name="IconRes" type="java.lang.String"><![CDATA[/markers/taskprior_1.gif]]></Field>
-	<Field name="IndChange" type="java.lang.String">null</Field>
-	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
+	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[2]]></Field>
 	<Field name="InUse" type="java.lang.String"><![CDATA[1]]></Field>
 	<Field name="IGrpState" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
 	<Field name="IState" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-06-13 20:00:05.0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-07-24 04:49:15.0]]></Field>
 	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="ShowDesc" type="java.lang.String"><![CDATA[1]]></Field>
 	<Field name="StateCode" type="java.lang.String"><![CDATA[PRIORITY_1]]></Field>
@@ -44,12 +44,12 @@
 	<Field name="FirstUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[a3c31f4b-bdbf-4e8f-9818-11d19764b1b6]]></Field>
 	<Field name="IconRes" type="java.lang.String"><![CDATA[/markers/taskprior_2.gif]]></Field>
-	<Field name="IndChange" type="java.lang.String">null</Field>
-	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
+	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[2]]></Field>
 	<Field name="InUse" type="java.lang.String"><![CDATA[1]]></Field>
 	<Field name="IGrpState" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
 	<Field name="IState" type="com.sunopsis.sql.DbInt"><![CDATA[2]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-06-13 20:00:05.0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-07-24 04:49:15.0]]></Field>
 	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="ShowDesc" type="java.lang.String"><![CDATA[1]]></Field>
 	<Field name="StateCode" type="java.lang.String"><![CDATA[PRIORITY_2]]></Field>
@@ -62,12 +62,12 @@
 	<Field name="FirstUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[567cd25f-9be2-4e9a-ac66-c969990e1d83]]></Field>
 	<Field name="IconRes" type="java.lang.String"><![CDATA[/markers/taskprior_3.gif]]></Field>
-	<Field name="IndChange" type="java.lang.String">null</Field>
-	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
+	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[2]]></Field>
 	<Field name="InUse" type="java.lang.String"><![CDATA[1]]></Field>
 	<Field name="IGrpState" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
 	<Field name="IState" type="com.sunopsis.sql.DbInt"><![CDATA[3]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-06-13 20:00:05.0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-07-24 04:49:15.0]]></Field>
 	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="ShowDesc" type="java.lang.String"><![CDATA[1]]></Field>
 	<Field name="StateCode" type="java.lang.String"><![CDATA[PRIORITY_3]]></Field>
@@ -80,12 +80,12 @@
 	<Field name="FirstUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[60666531-7300-4d6d-94ab-6138bd2add70]]></Field>
 	<Field name="IconRes" type="java.lang.String"><![CDATA[/markers/taskprior_4.gif]]></Field>
-	<Field name="IndChange" type="java.lang.String">null</Field>
-	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
+	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[2]]></Field>
 	<Field name="InUse" type="java.lang.String"><![CDATA[1]]></Field>
 	<Field name="IGrpState" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
 	<Field name="IState" type="com.sunopsis.sql.DbInt"><![CDATA[4]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-06-13 20:00:05.0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-07-24 04:49:15.0]]></Field>
 	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="ShowDesc" type="java.lang.String"><![CDATA[1]]></Field>
 	<Field name="StateCode" type="java.lang.String"><![CDATA[PRIORITY_4]]></Field>
@@ -98,12 +98,12 @@
 	<Field name="FirstUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[30028415-cb5d-42ea-911c-1c675b7e591d]]></Field>
 	<Field name="IconRes" type="java.lang.String"><![CDATA[/markers/taskprior_5.gif]]></Field>
-	<Field name="IndChange" type="java.lang.String">null</Field>
-	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
+	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[2]]></Field>
 	<Field name="InUse" type="java.lang.String"><![CDATA[1]]></Field>
 	<Field name="IGrpState" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
 	<Field name="IState" type="com.sunopsis.sql.DbInt"><![CDATA[5]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-06-13 20:00:05.0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-07-24 04:49:15.0]]></Field>
 	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="ShowDesc" type="java.lang.String"><![CDATA[1]]></Field>
 	<Field name="StateCode" type="java.lang.String"><![CDATA[PRIORITY_5]]></Field>
