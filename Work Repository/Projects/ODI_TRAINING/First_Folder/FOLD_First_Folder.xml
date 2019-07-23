@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SunopsisExport>
 <Admin RepositoryVersion="05.02.02.05" IsLegacyIdCompatible="false" />
-<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="50wG2ISU71L5yDZVsputsw==" exportKeySalt="ee708568-621c-41d7-87a8-e265a7b53a48" containsCipherText="false"/>
+<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="2M/Wm40G9XpBph4LXji4cA==" exportKeySalt="17248fb4-cd5f-419d-9afd-b3e58b4cd135" containsCipherText="false"/>
 <Object class="com.sunopsis.dwg.dbobj.SnpFolder">
 		<Field name="ExtVersion" type="java.lang.String">null</Field>
 	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2019-06-13 20:00:05.0]]></Field>
@@ -12,7 +12,7 @@
 	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
 	<Field name="IFolder" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
 	<Field name="IProject" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-07-23 20:19:36.0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-07-24 03:55:32.0]]></Field>
 	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="OrdFolder" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="ParIFolder" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
@@ -176,7 +176,7 @@
 	<Field name="SubType" type="java.lang.String"><![CDATA[N]]></Field>
 	<Field name="Name" type="java.lang.String"><![CDATA[PIVOT_YEAR_MAPPING]]></Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[15223ba0-aedf-46e5-b704-b0e9538b3c53]]></Field>
-	<Field name="Version" type="java.lang.String"><![CDATA[a51a31c7a495021226f14a272a4b597547becbfd]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[9a4d6cd1f0f8f1827177764476f0ce5981451a64]]></Field>
 	<Field name="Path" type="java.lang.String"><![CDATA[Mappings/MAP_PIVOT_YEAR_MAPPING.xml]]></Field>
 </Object>
 <Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
