@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SunopsisExport>
 <Admin RepositoryVersion="05.02.02.05" IsLegacyIdCompatible="false" />
-<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="Xj7WeGbhXA6pk28GPUytdQ==" exportKeySalt="8eebe458-99e8-463d-9942-33e22609a242" containsCipherText="false"/>
+<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="FoJ8/Ws5BeEm47XxCPxRDQ==" exportKeySalt="c09515b9-7680-44d6-b7e9-c567ca127e48" containsCipherText="false"/>
 <Object class="com.sunopsis.dwg.dbobj.SnpTable">
 		<Field name="ExtVersion" type="java.lang.String">null</Field>
 	<Field name="FileDecSep" type="java.lang.String">null</Field>
@@ -29,7 +29,7 @@
 	<Field name="IndShow" type="java.lang.String"><![CDATA[1]]></Field>
 	<Field name="IndWs" type="java.lang.String">null</Field>
 	<Field name="InputFormat" type="java.lang.String">null</Field>
-	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
+	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[2]]></Field>
 	<Field name="IMod" type="com.sunopsis.sql.DbInt"><![CDATA[12]]></Field>
 	<Field name="IScBaseTable" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IScOrigTable" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
@@ -40,7 +40,7 @@
 	<Field name="ITxtDesc" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="ITxtWsdl" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="JrnOrder" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-06-13 20:17:48.0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-07-24 04:49:13.0]]></Field>
 	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="OlapType" type="java.lang.String">null</Field>
 	<Field name="OutputFormat" type="java.lang.String">null</Field>
@@ -80,7 +80,7 @@
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[1f89bb31-7460-4326-98e5-e715fe4009cb]]></Field>
 	<Field name="HbaseEncoding" type="java.lang.String">null</Field>
 	<Field name="HiveSortbyPos" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="IndChange" type="java.lang.String"><![CDATA[I]]></Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="IndHiveCluster" type="java.lang.String">null</Field>
 	<Field name="IndHivePartition" type="java.lang.String">null</Field>
 	<Field name="IndHiveSort" type="java.lang.String">null</Field>
@@ -90,12 +90,12 @@
 	<Field name="IndWsInsert" type="java.lang.String"><![CDATA[1]]></Field>
 	<Field name="IndWsSelect" type="java.lang.String"><![CDATA[1]]></Field>
 	<Field name="IndWsUpdate" type="java.lang.String"><![CDATA[1]]></Field>
-	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
+	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[2]]></Field>
 	<Field name="ICol" type="com.sunopsis.sql.DbInt"><![CDATA[29]]></Field>
 	<Field name="ISrcCol" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="ITable" type="com.sunopsis.sql.DbInt"><![CDATA[12]]></Field>
 	<Field name="ITxtColDesc" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-06-13 19:58:35.0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-07-24 04:49:13.0]]></Field>
 	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="Longc" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="Pos" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
@@ -123,7 +123,7 @@
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[946efbc3-a5af-4317-bd54-1086f99dbe25]]></Field>
 	<Field name="HbaseEncoding" type="java.lang.String">null</Field>
 	<Field name="HiveSortbyPos" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="IndChange" type="java.lang.String"><![CDATA[I]]></Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="IndHiveCluster" type="java.lang.String">null</Field>
 	<Field name="IndHivePartition" type="java.lang.String">null</Field>
 	<Field name="IndHiveSort" type="java.lang.String">null</Field>
@@ -133,12 +133,12 @@
 	<Field name="IndWsInsert" type="java.lang.String"><![CDATA[1]]></Field>
 	<Field name="IndWsSelect" type="java.lang.String"><![CDATA[1]]></Field>
 	<Field name="IndWsUpdate" type="java.lang.String"><![CDATA[1]]></Field>
-	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
+	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[2]]></Field>
 	<Field name="ICol" type="com.sunopsis.sql.DbInt"><![CDATA[31]]></Field>
 	<Field name="ISrcCol" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="ITable" type="com.sunopsis.sql.DbInt"><![CDATA[12]]></Field>
 	<Field name="ITxtColDesc" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-06-13 19:58:35.0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-07-24 04:49:13.0]]></Field>
 	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="Longc" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="Pos" type="com.sunopsis.sql.DbInt"><![CDATA[2]]></Field>
@@ -166,7 +166,7 @@
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[907af571-58b0-4d7a-9db8-7660121621c6]]></Field>
 	<Field name="HbaseEncoding" type="java.lang.String">null</Field>
 	<Field name="HiveSortbyPos" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="IndChange" type="java.lang.String"><![CDATA[I]]></Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="IndHiveCluster" type="java.lang.String">null</Field>
 	<Field name="IndHivePartition" type="java.lang.String">null</Field>
 	<Field name="IndHiveSort" type="java.lang.String">null</Field>
@@ -176,12 +176,12 @@
 	<Field name="IndWsInsert" type="java.lang.String"><![CDATA[1]]></Field>
 	<Field name="IndWsSelect" type="java.lang.String"><![CDATA[1]]></Field>
 	<Field name="IndWsUpdate" type="java.lang.String"><![CDATA[1]]></Field>
-	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
+	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[2]]></Field>
 	<Field name="ICol" type="com.sunopsis.sql.DbInt"><![CDATA[30]]></Field>
 	<Field name="ISrcCol" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="ITable" type="com.sunopsis.sql.DbInt"><![CDATA[12]]></Field>
 	<Field name="ITxtColDesc" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-06-13 19:58:35.0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-07-24 04:49:13.0]]></Field>
 	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="Longc" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="Pos" type="com.sunopsis.sql.DbInt"><![CDATA[3]]></Field>
@@ -209,7 +209,7 @@
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[cffe3371-c537-4ad1-949d-5d6f6d56b23b]]></Field>
 	<Field name="HbaseEncoding" type="java.lang.String">null</Field>
 	<Field name="HiveSortbyPos" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="IndChange" type="java.lang.String"><![CDATA[I]]></Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="IndHiveCluster" type="java.lang.String">null</Field>
 	<Field name="IndHivePartition" type="java.lang.String">null</Field>
 	<Field name="IndHiveSort" type="java.lang.String">null</Field>
@@ -219,12 +219,12 @@
 	<Field name="IndWsInsert" type="java.lang.String"><![CDATA[1]]></Field>
 	<Field name="IndWsSelect" type="java.lang.String"><![CDATA[1]]></Field>
 	<Field name="IndWsUpdate" type="java.lang.String"><![CDATA[1]]></Field>
-	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
+	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[2]]></Field>
 	<Field name="ICol" type="com.sunopsis.sql.DbInt"><![CDATA[28]]></Field>
 	<Field name="ISrcCol" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="ITable" type="com.sunopsis.sql.DbInt"><![CDATA[12]]></Field>
 	<Field name="ITxtColDesc" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-06-13 19:58:35.0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-07-24 04:49:13.0]]></Field>
 	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="Longc" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="Pos" type="com.sunopsis.sql.DbInt"><![CDATA[4]]></Field>
@@ -252,7 +252,7 @@
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[5897a4bb-c184-460c-aeb5-a8e3e7dc29b6]]></Field>
 	<Field name="HbaseEncoding" type="java.lang.String">null</Field>
 	<Field name="HiveSortbyPos" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="IndChange" type="java.lang.String"><![CDATA[I]]></Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="IndHiveCluster" type="java.lang.String">null</Field>
 	<Field name="IndHivePartition" type="java.lang.String">null</Field>
 	<Field name="IndHiveSort" type="java.lang.String">null</Field>
@@ -262,12 +262,12 @@
 	<Field name="IndWsInsert" type="java.lang.String"><![CDATA[1]]></Field>
 	<Field name="IndWsSelect" type="java.lang.String"><![CDATA[1]]></Field>
 	<Field name="IndWsUpdate" type="java.lang.String"><![CDATA[1]]></Field>
-	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
+	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[2]]></Field>
 	<Field name="ICol" type="com.sunopsis.sql.DbInt"><![CDATA[32]]></Field>
 	<Field name="ISrcCol" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="ITable" type="com.sunopsis.sql.DbInt"><![CDATA[12]]></Field>
 	<Field name="ITxtColDesc" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-06-13 19:58:35.0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-07-24 04:49:13.0]]></Field>
 	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="Longc" type="com.sunopsis.sql.DbInt"><![CDATA[10]]></Field>
 	<Field name="Pos" type="com.sunopsis.sql.DbInt"><![CDATA[5]]></Field>
@@ -295,7 +295,7 @@
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[f7877a1b-4c46-4703-81a1-a3732be8851f]]></Field>
 	<Field name="HbaseEncoding" type="java.lang.String">null</Field>
 	<Field name="HiveSortbyPos" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="IndChange" type="java.lang.String"><![CDATA[I]]></Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="IndHiveCluster" type="java.lang.String">null</Field>
 	<Field name="IndHivePartition" type="java.lang.String">null</Field>
 	<Field name="IndHiveSort" type="java.lang.String">null</Field>
@@ -305,12 +305,12 @@
 	<Field name="IndWsInsert" type="java.lang.String"><![CDATA[1]]></Field>
 	<Field name="IndWsSelect" type="java.lang.String"><![CDATA[1]]></Field>
 	<Field name="IndWsUpdate" type="java.lang.String"><![CDATA[1]]></Field>
-	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
+	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[2]]></Field>
 	<Field name="ICol" type="com.sunopsis.sql.DbInt"><![CDATA[33]]></Field>
 	<Field name="ISrcCol" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="ITable" type="com.sunopsis.sql.DbInt"><![CDATA[12]]></Field>
 	<Field name="ITxtColDesc" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-06-13 19:58:35.0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-07-24 04:49:13.0]]></Field>
 	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="Longc" type="com.sunopsis.sql.DbInt"><![CDATA[10]]></Field>
 	<Field name="Pos" type="com.sunopsis.sql.DbInt"><![CDATA[6]]></Field>
@@ -332,13 +332,13 @@
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[c01ac18c-4851-4fba-815c-28848e31fc3a]]></Field>
 	<Field name="IndActive" type="java.lang.String"><![CDATA[1]]></Field>
 	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
-	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[2]]></Field>
+	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[3]]></Field>
 	<Field name="IJoin" type="com.sunopsis.sql.DbInt"><![CDATA[11]]></Field>
 	<Field name="IScTablePk" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="ITableFk" type="com.sunopsis.sql.DbInt"><![CDATA[12]]></Field>
 	<Field name="ITablePk" type="com.sunopsis.sql.DbInt"><![CDATA[13]]></Field>
 	<Field name="ITxtComplex" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-06-13 20:17:48.0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-07-24 04:49:13.0]]></Field>
 	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="PkCatalog" type="java.lang.String">null</Field>
 	<Field name="PkIMod" type="com.sunopsis.sql.DbInt"><![CDATA[12]]></Field>
@@ -358,12 +358,12 @@
 		<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2019-06-13 19:58:35.0]]></Field>
 	<Field name="FirstUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[802093d4-40c3-448c-a67d-c382c0b01862]]></Field>
-	<Field name="IndChange" type="java.lang.String"><![CDATA[I]]></Field>
-	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
+	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[2]]></Field>
 	<Field name="IColFk" type="com.sunopsis.sql.DbInt"><![CDATA[28]]></Field>
 	<Field name="IColPk" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IJoin" type="com.sunopsis.sql.DbInt"><![CDATA[11]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-06-13 19:58:35.0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-07-24 04:49:13.0]]></Field>
 	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="PkColName" type="java.lang.String"><![CDATA[CHANNEL_ID]]></Field>
 	<Field name="Pos" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
@@ -388,13 +388,13 @@
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[53f8d429-bcbe-481f-b88d-7b0bd6d14624]]></Field>
 	<Field name="IndActive" type="java.lang.String"><![CDATA[1]]></Field>
 	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
-	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
+	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[2]]></Field>
 	<Field name="IJoin" type="com.sunopsis.sql.DbInt"><![CDATA[12]]></Field>
 	<Field name="IScTablePk" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="ITableFk" type="com.sunopsis.sql.DbInt"><![CDATA[12]]></Field>
 	<Field name="ITablePk" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="ITxtComplex" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-06-13 19:58:35.0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-07-24 04:49:13.0]]></Field>
 	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="PkCatalog" type="java.lang.String">null</Field>
 	<Field name="PkIMod" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
@@ -407,12 +407,12 @@
 		<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2019-06-13 19:58:35.0]]></Field>
 	<Field name="FirstUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[0a668e2f-a0f4-47a2-8330-e8c8c0fa2487]]></Field>
-	<Field name="IndChange" type="java.lang.String"><![CDATA[I]]></Field>
-	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
+	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[2]]></Field>
 	<Field name="IColFk" type="com.sunopsis.sql.DbInt"><![CDATA[29]]></Field>
 	<Field name="IColPk" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IJoin" type="com.sunopsis.sql.DbInt"><![CDATA[12]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-06-13 19:58:35.0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-07-24 04:49:13.0]]></Field>
 	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="PkColName" type="java.lang.String"><![CDATA[PROD_ID]]></Field>
 	<Field name="Pos" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
@@ -437,13 +437,13 @@
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[9385a211-2926-4e9c-8ae9-c5457a9e9a6c]]></Field>
 	<Field name="IndActive" type="java.lang.String"><![CDATA[1]]></Field>
 	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
-	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
+	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[2]]></Field>
 	<Field name="IJoin" type="com.sunopsis.sql.DbInt"><![CDATA[13]]></Field>
 	<Field name="IScTablePk" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="ITableFk" type="com.sunopsis.sql.DbInt"><![CDATA[12]]></Field>
 	<Field name="ITablePk" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="ITxtComplex" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-06-13 19:58:35.0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-07-24 04:49:13.0]]></Field>
 	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="PkCatalog" type="java.lang.String">null</Field>
 	<Field name="PkIMod" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
@@ -456,12 +456,12 @@
 		<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2019-06-13 19:58:35.0]]></Field>
 	<Field name="FirstUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[82eafcb9-3f79-40ed-9f25-2aad3a19e61a]]></Field>
-	<Field name="IndChange" type="java.lang.String"><![CDATA[I]]></Field>
-	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
+	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[2]]></Field>
 	<Field name="IColFk" type="com.sunopsis.sql.DbInt"><![CDATA[30]]></Field>
 	<Field name="IColPk" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IJoin" type="com.sunopsis.sql.DbInt"><![CDATA[13]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-06-13 19:58:35.0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-07-24 04:49:13.0]]></Field>
 	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="PkColName" type="java.lang.String"><![CDATA[PROMO_ID]]></Field>
 	<Field name="Pos" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
@@ -486,13 +486,13 @@
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[e681a7bc-ef01-4154-84c2-ae5461f8a09f]]></Field>
 	<Field name="IndActive" type="java.lang.String"><![CDATA[1]]></Field>
 	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
-	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
+	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[2]]></Field>
 	<Field name="IJoin" type="com.sunopsis.sql.DbInt"><![CDATA[14]]></Field>
 	<Field name="IScTablePk" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="ITableFk" type="com.sunopsis.sql.DbInt"><![CDATA[12]]></Field>
 	<Field name="ITablePk" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="ITxtComplex" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-06-13 19:58:35.0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-07-24 04:49:13.0]]></Field>
 	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="PkCatalog" type="java.lang.String">null</Field>
 	<Field name="PkIMod" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
@@ -505,12 +505,12 @@
 		<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2019-06-13 19:58:35.0]]></Field>
 	<Field name="FirstUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[b43ecdc3-5d56-40f9-bb82-8241442251b9]]></Field>
-	<Field name="IndChange" type="java.lang.String"><![CDATA[I]]></Field>
-	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
+	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[2]]></Field>
 	<Field name="IColFk" type="com.sunopsis.sql.DbInt"><![CDATA[31]]></Field>
 	<Field name="IColPk" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IJoin" type="com.sunopsis.sql.DbInt"><![CDATA[14]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-06-13 19:58:35.0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-07-24 04:49:13.0]]></Field>
 	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="PkColName" type="java.lang.String"><![CDATA[TIME_ID]]></Field>
 	<Field name="Pos" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
