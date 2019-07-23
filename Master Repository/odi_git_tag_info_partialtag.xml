@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OdiGitTagInfo>
+   <ParamMap>
+      <param value="/Work Repository/Projects/ODI_TRAINING/Markers/GRP_STATE_Priorities.xml"/>
+      <param value="/Work Repository/Models/TRAINING_MODEL/SH_SOURCE_MODEL/Global/SMOD_Global.xml"/>
+      <param value="/Work Repository/Models/TRAINING_MODEL/MFOL_TRAINING_MODEL.xml"/>
+      <param value="/Work Repository/Projects/ODI_TRAINING/PROJ_ODI_TRAINING.xml"/>
+      <param value="/Work Repository/Projects/ODI_TRAINING/Variables/VAR_VAR_CHANNEL.xml"/>
+      <param value="/Work Repository/Projects/ODI_TRAINING/First_Folder/FOLD_First_Folder.xml"/>
+      <param value="/Work Repository/Projects/ODI_TRAINING/First_Folder/Mappings/MAP_COSTMAPPING.xml"/>
+      <param value="/Master Repository/Contexts/CONT_Global.xml"/>
+      <param value="/Work Repository/Projects/ODI_TRAINING/Variables/VAR_VAR_TEST.xml"/>
+      <param value="/Work Repository/Global Objects/Global Variables/VAR_GLOBAL_VAR_TEST1.xml"/>
+      <param value="/Work Repository/Models/TRAINING_MODEL/HR_TARGET_MODEL/Global/SMOD_Global.xml"/>
+      <param value="/Work Repository/Models/TRAINING_MODEL/HR_TARGET_MODEL/MOD_HR_TARGET_MODEL.xml"/>
+      <param value="/Work Repository/Models/TRAINING_MODEL/HR_TARGET_MODEL/Global/TAB_COSTS_TARGET.xml"/>
+      <param value="/Work Repository/Models/TRAINING_MODEL/SH_SOURCE_MODEL/MOD_SH_SOURCE_MODEL.xml"/>
+      <param value="/Work Repository/Models/TRAINING_MODEL/SH_SOURCE_MODEL/Global/TAB_COSTS.xml"/>
+      <param value="/Master Repository/Technologies/Oracle/Physical Architecture/SH_SOURCE/PSC_SH_SOURCE_SH.xml"/>
+      <param value="/Work Repository/Models/TRAINING_MODEL/SH_SOURCE_MODEL/Global/TAB_CHANNELS.xml"/>
+      <param value="/Master Repository/Languages/LANG_SQL.xml"/>
+      <param value="/Master Repository/Technologies/Oracle/Physical Architecture/HR_TARGET/PSC_HR_TARGET_HR.xml"/>
+      <param value="/Master Repository/Technologies/Oracle/Logical Architecture/LSC_SH_SOURCE_LOGICAL.xml"/>
+      <param value="/Master Repository/Technologies/Oracle/Logical Architecture/LSC_HR_TARGET_LOGICAL.xml"/>
+      <param value="/Master Repository/Technologies/Oracle/TECH_Oracle.xml"/>
+      <param value="/Master Repository/Technologies/Oracle/Physical Architecture/SH_SOURCE/CONN_SH_SOURCE.xml"/>
+      <param value="/Master Repository/Technologies/Oracle/Physical Architecture/HR_TARGET/CONN_HR_TARGET.xml"/>
+   </ParamMap>
+</OdiGitTagInfo>
