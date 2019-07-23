@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SunopsisExport>
 <Admin RepositoryVersion="05.02.02.05" IsLegacyIdCompatible="false" />
-<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="kuF9xAGM+JbD9EZQiAidgw==" exportKeySalt="da22b143-7279-4a34-8315-e4162a746436" containsCipherText="false"/>
+<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="7K3WEQjRnLJ8sctCLESPog==" exportKeySalt="a0c4854c-5445-4797-9a03-cabc093477d3" containsCipherText="false"/>
 <Object class="com.sunopsis.dwg.dbobj.SnpLschema">
 		<Field name="ExtVersion" type="java.lang.String">null</Field>
 	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2019-06-13 19:52:55.0]]></Field>
 	<Field name="FirstUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[c12719b0-2008-4380-b1f9-c31d6f341277]]></Field>
-	<Field name="IndChange" type="java.lang.String"><![CDATA[I]]></Field>
-	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
+	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[2]]></Field>
 	<Field name="ILschema" type="com.sunopsis.sql.DbInt"><![CDATA[14]]></Field>
 	<Field name="ITechno" type="com.sunopsis.sql.DbInt"><![CDATA[90]]></Field>
 	<Field name="ITgtDbLs" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-06-13 19:52:55.0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-07-24 04:49:01.0]]></Field>
 	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="LschemaName" type="java.lang.String"><![CDATA[SH_SOURCE_LOGICAL]]></Field>
 	<Field name="ProcessType" type="java.lang.String">null</Field>
@@ -21,11 +21,11 @@
 		<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2019-06-13 19:52:55.0]]></Field>
 	<Field name="FirstUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[b5f3e0b3-1244-4db0-8fda-645aa1d4cb6c]]></Field>
-	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
+	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[3]]></Field>
 	<Field name="IContext" type="com.sunopsis.sql.DbInt"><![CDATA[2]]></Field>
 	<Field name="ILschema" type="com.sunopsis.sql.DbInt"><![CDATA[14]]></Field>
 	<Field name="IPschema" type="com.sunopsis.sql.DbInt"><![CDATA[13]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-06-13 19:52:55.0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-07-24 04:49:01.0]]></Field>
 	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 </Object>
 <Object class="com.sunopsis.dwg.dbobj.SnpReferencedObject">
