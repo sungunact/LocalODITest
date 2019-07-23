@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SunopsisExport>
 <Admin RepositoryVersion="05.02.02.05" IsLegacyIdCompatible="false" />
-<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="u3wsLJykEP7P3zVbNG+Q+Q==" exportKeySalt="693b70b7-cf63-474d-bb3b-befdc702b90a" containsCipherText="false"/>
+<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="HHxrhx8gUMsWJZ7FoDzKsw==" exportKeySalt="a8da5b55-96f8-4fde-87f0-829843c26ecb" containsCipherText="false"/>
 <Object class="com.sunopsis.dwg.dbobj.SnpMapping">
 		<Field name="BusinessName" type="java.lang.String">null</Field>
 	<Field name="Descript" type="java.lang.String">null</Field>
@@ -11,7 +11,7 @@
 	<Field name="FirstUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[15223ba0-aedf-46e5-b704-b0e9538b3c53]]></Field>
 	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
-	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[10]]></Field>
+	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[11]]></Field>
 	<Field name="IsReusable" type="java.lang.String"><![CDATA[N]]></Field>
 	<Field name="IContextMapRef" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IFolder" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
@@ -20,7 +20,7 @@
 	<Field name="IScBaseMapping" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IScMapping" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IScOrigMapping" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-07-24 03:51:44.0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-07-24 03:55:31.0]]></Field>
 	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="MetadataVersion" type="java.lang.String"><![CDATA[12]]></Field>
 	<Field name="Name" type="java.lang.String"><![CDATA[PIVOT_YEAR_MAPPING]]></Field>
@@ -39,15 +39,15 @@
 	<Field name="FirstDate" type="java.sql.Timestamp">null</Field>
 	<Field name="FirstUser" type="java.lang.String">null</Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[78a967f8-9a1b-4004-93fb-36dd8cd75a16]]></Field>
-	<Field name="IndChange" type="java.lang.String">null</Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IFcoId" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IMapRef" type="com.sunopsis.sql.DbInt"><![CDATA[186]]></Field>
 	<Field name="IOwnerMapping" type="com.sunopsis.sql.DbInt"><![CDATA[7]]></Field>
 	<Field name="IRefId" type="com.sunopsis.sql.DbInt"><![CDATA[196]]></Field>
 	<Field name="IScId" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp">null</Field>
-	<Field name="LastUser" type="java.lang.String">null</Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-07-24 03:55:31.0]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="Name" type="java.lang.String">null</Field>
 	<Field name="QualifiedName" type="java.lang.String"><![CDATA[ORACLE.NUMBER]]></Field>
 	<Field name="QualifiedName2" type="java.lang.String">null</Field>
@@ -68,15 +68,15 @@
 	<Field name="FirstDate" type="java.sql.Timestamp">null</Field>
 	<Field name="FirstUser" type="java.lang.String">null</Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[cb318268-8df8-46f6-97cb-392383701a29]]></Field>
-	<Field name="IndChange" type="java.lang.String">null</Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IFcoId" type="com.sunopsis.sql.DbInt"><![CDATA[63]]></Field>
 	<Field name="IMapRef" type="com.sunopsis.sql.DbInt"><![CDATA[188]]></Field>
 	<Field name="IOwnerMapping" type="com.sunopsis.sql.DbInt"><![CDATA[7]]></Field>
 	<Field name="IRefId" type="com.sunopsis.sql.DbInt"><![CDATA[180]]></Field>
 	<Field name="IScId" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp">null</Field>
-	<Field name="LastUser" type="java.lang.String">null</Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-07-24 03:55:31.0]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="Name" type="java.lang.String">null</Field>
 	<Field name="QualifiedName" type="java.lang.String"><![CDATA[YEAR_2012_SALE]]></Field>
 	<Field name="QualifiedName2" type="java.lang.String">null</Field>
@@ -97,15 +97,15 @@
 	<Field name="FirstDate" type="java.sql.Timestamp">null</Field>
 	<Field name="FirstUser" type="java.lang.String">null</Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[cd08f731-1ae1-4312-bfeb-aa2d16d7780e]]></Field>
-	<Field name="IndChange" type="java.lang.String">null</Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IFcoId" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IMapRef" type="com.sunopsis.sql.DbInt"><![CDATA[181]]></Field>
 	<Field name="IOwnerMapping" type="com.sunopsis.sql.DbInt"><![CDATA[7]]></Field>
 	<Field name="IRefId" type="com.sunopsis.sql.DbInt"><![CDATA[63]]></Field>
 	<Field name="IScId" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp">null</Field>
-	<Field name="LastUser" type="java.lang.String">null</Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-07-24 03:55:31.0]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="Name" type="java.lang.String">null</Field>
 	<Field name="QualifiedName" type="java.lang.String"><![CDATA[HR_MODEL.TRG_PIVOT_TEST_YEAR]]></Field>
 	<Field name="QualifiedName2" type="java.lang.String">null</Field>
@@ -165,7 +165,7 @@
 	<Field name="FirstUser" type="java.lang.String">null</Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[25ac7965-11d2-411b-b2bb-75eca8b218dc]]></Field>
 	<Field name="GrpFunc" type="java.lang.String"><![CDATA[AUTO]]></Field>
-	<Field name="IndChange" type="java.lang.String">null</Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="IntDtQualName" type="java.lang.String">null</Field>
 	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IsDerivedName" type="java.lang.String"><![CDATA[1]]></Field>
@@ -175,8 +175,8 @@
 	<Field name="IMapRef" type="com.sunopsis.sql.DbInt"><![CDATA[188]]></Field>
 	<Field name="IOwnerMapCp" type="com.sunopsis.sql.DbInt"><![CDATA[43]]></Field>
 	<Field name="IParMapAttr" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp">null</Field>
-	<Field name="LastUser" type="java.lang.String">null</Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-07-24 03:55:31.0]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="Length" type="java.lang.String">null</Field>
 	<Field name="Name" type="java.lang.String"><![CDATA[YEAR_2012_SALE]]></Field>
 	<Field name="Prec" type="java.lang.String">null</Field>
@@ -208,7 +208,7 @@
 	<Field name="FirstUser" type="java.lang.String">null</Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[794e9be3-a4d9-43c3-b641-c055315a345c]]></Field>
 	<Field name="HasUnparsedIdent" type="java.lang.String">null</Field>
-	<Field name="IndChange" type="java.lang.String">null</Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IsActive" type="java.lang.String">null</Field>
 	<Field name="IsParsed" type="java.lang.String"><![CDATA[1]]></Field>
@@ -218,15 +218,15 @@
 	<Field name="IMapExpr" type="com.sunopsis.sql.DbInt"><![CDATA[140]]></Field>
 	<Field name="IOwnerMapAttr" type="com.sunopsis.sql.DbInt"><![CDATA[105]]></Field>
 	<Field name="IOwnerMapProp" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp">null</Field>
-	<Field name="LastUser" type="java.lang.String">null</Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-07-24 03:55:31.0]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="ParsedText" type="java.lang.String">null</Field>
-	<Field name="ParsedTxt" type="java.lang.String"><![CDATA[@{R0} *10]]></Field>
+	<Field name="ParsedTxt" type="java.lang.String"><![CDATA[@{R0}]]></Field>
 	<Field name="PropValues" type="java.lang.String">null</Field>
 	<Field name="Text" type="java.lang.String">null</Field>
-	<Field name="TextHash" type="com.sunopsis.sql.DbInt"><![CDATA[2145412191]]></Field>
+	<Field name="TextHash" type="com.sunopsis.sql.DbInt"><![CDATA[367263670]]></Field>
 	<Field name="TextOnly" type="java.lang.String"><![CDATA[0]]></Field>
-	<Field name="Txt" type="java.lang.String"><![CDATA[PIVOT_.YEAR_2012_SALE *10]]></Field>
+	<Field name="Txt" type="java.lang.String"><![CDATA[PIVOT_.YEAR_2012_SALE]]></Field>
 	<Field name="ValidationCode" type="java.lang.String">null</Field>
 </Object>
 <Object class="com.sunopsis.dwg.dbobj.SnpMapComp">
@@ -280,7 +280,7 @@
 	<Field name="FirstUser" type="java.lang.String">null</Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[11fdc85b-a098-4bb6-a3ee-2ba4aec48a60]]></Field>
 	<Field name="GrpFunc" type="java.lang.String"><![CDATA[AUTO]]></Field>
-	<Field name="IndChange" type="java.lang.String">null</Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="IntDtQualName" type="java.lang.String">null</Field>
 	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IsDerivedName" type="java.lang.String"><![CDATA[0]]></Field>
@@ -290,8 +290,8 @@
 	<Field name="IMapRef" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IOwnerMapCp" type="com.sunopsis.sql.DbInt"><![CDATA[45]]></Field>
 	<Field name="IParMapAttr" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp">null</Field>
-	<Field name="LastUser" type="java.lang.String">null</Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-07-24 03:55:31.0]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="Length" type="java.lang.String">null</Field>
 	<Field name="Name" type="java.lang.String"><![CDATA[YEAR_2012_SALE]]></Field>
 	<Field name="Prec" type="java.lang.String">null</Field>
@@ -325,15 +325,15 @@
 	<Field name="FirstDate" type="java.sql.Timestamp">null</Field>
 	<Field name="FirstUser" type="java.lang.String">null</Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[6663aa23-7fca-4300-8ee9-c03bf7144715]]></Field>
-	<Field name="IndChange" type="java.lang.String">null</Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IFcoId" type="com.sunopsis.sql.DbInt"><![CDATA[61]]></Field>
 	<Field name="IMapRef" type="com.sunopsis.sql.DbInt"><![CDATA[191]]></Field>
 	<Field name="IOwnerMapping" type="com.sunopsis.sql.DbInt"><![CDATA[7]]></Field>
 	<Field name="IRefId" type="com.sunopsis.sql.DbInt"><![CDATA[172]]></Field>
 	<Field name="IScId" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp">null</Field>
-	<Field name="LastUser" type="java.lang.String">null</Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-07-24 03:55:31.0]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="Name" type="java.lang.String">null</Field>
 	<Field name="QualifiedName" type="java.lang.String"><![CDATA[SALES]]></Field>
 	<Field name="QualifiedName2" type="java.lang.String">null</Field>
@@ -354,15 +354,15 @@
 	<Field name="FirstDate" type="java.sql.Timestamp">null</Field>
 	<Field name="FirstUser" type="java.lang.String">null</Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[4c1471e5-ba4c-4ab7-8af3-a7976ce4d4e8]]></Field>
-	<Field name="IndChange" type="java.lang.String">null</Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IFcoId" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IMapRef" type="com.sunopsis.sql.DbInt"><![CDATA[180]]></Field>
 	<Field name="IOwnerMapping" type="com.sunopsis.sql.DbInt"><![CDATA[7]]></Field>
 	<Field name="IRefId" type="com.sunopsis.sql.DbInt"><![CDATA[61]]></Field>
 	<Field name="IScId" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp">null</Field>
-	<Field name="LastUser" type="java.lang.String">null</Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-07-24 03:55:31.0]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="Name" type="java.lang.String">null</Field>
 	<Field name="QualifiedName" type="java.lang.String"><![CDATA[HR_MODEL.PIVOT_TEST]]></Field>
 	<Field name="QualifiedName2" type="java.lang.String">null</Field>
@@ -422,7 +422,7 @@
 	<Field name="FirstUser" type="java.lang.String">null</Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[404099f5-5859-4e82-9472-66b7474e96ee]]></Field>
 	<Field name="GrpFunc" type="java.lang.String"><![CDATA[AUTO]]></Field>
-	<Field name="IndChange" type="java.lang.String">null</Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="IntDtQualName" type="java.lang.String">null</Field>
 	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IsDerivedName" type="java.lang.String"><![CDATA[1]]></Field>
@@ -432,8 +432,8 @@
 	<Field name="IMapRef" type="com.sunopsis.sql.DbInt"><![CDATA[191]]></Field>
 	<Field name="IOwnerMapCp" type="com.sunopsis.sql.DbInt"><![CDATA[41]]></Field>
 	<Field name="IParMapAttr" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp">null</Field>
-	<Field name="LastUser" type="java.lang.String">null</Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-07-24 03:55:31.0]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="Length" type="java.lang.String">null</Field>
 	<Field name="Name" type="java.lang.String"><![CDATA[SALES]]></Field>
 	<Field name="Prec" type="java.lang.String">null</Field>
@@ -465,7 +465,7 @@
 	<Field name="FirstUser" type="java.lang.String">null</Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[b5d8e244-1702-4cd6-aea7-9129cf49e0df]]></Field>
 	<Field name="HasUnparsedIdent" type="java.lang.String">null</Field>
-	<Field name="IndChange" type="java.lang.String">null</Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IsActive" type="java.lang.String">null</Field>
 	<Field name="IsParsed" type="java.lang.String"><![CDATA[1]]></Field>
@@ -475,8 +475,8 @@
 	<Field name="IMapExpr" type="com.sunopsis.sql.DbInt"><![CDATA[144]]></Field>
 	<Field name="IOwnerMapAttr" type="com.sunopsis.sql.DbInt"><![CDATA[109]]></Field>
 	<Field name="IOwnerMapProp" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp">null</Field>
-	<Field name="LastUser" type="java.lang.String">null</Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-07-24 03:55:31.0]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="ParsedText" type="java.lang.String">null</Field>
 	<Field name="ParsedTxt" type="java.lang.String"><![CDATA[@{R0}]]></Field>
 	<Field name="PropValues" type="java.lang.String">null</Field>
@@ -512,7 +512,7 @@
 	<Field name="FirstUser" type="java.lang.String">null</Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[52f81f95-30e6-44a6-ac6b-5abebdc27033]]></Field>
 	<Field name="GrpFunc" type="java.lang.String"><![CDATA[AUTO]]></Field>
-	<Field name="IndChange" type="java.lang.String">null</Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="IntDtQualName" type="java.lang.String">null</Field>
 	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IsDerivedName" type="java.lang.String"><![CDATA[0]]></Field>
@@ -522,8 +522,8 @@
 	<Field name="IMapRef" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IOwnerMapCp" type="com.sunopsis.sql.DbInt"><![CDATA[45]]></Field>
 	<Field name="IParMapAttr" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp">null</Field>
-	<Field name="LastUser" type="java.lang.String">null</Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-07-24 03:55:31.0]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="Length" type="java.lang.String">null</Field>
 	<Field name="Name" type="java.lang.String"><![CDATA[YEAR_2013_SALE]]></Field>
 	<Field name="Prec" type="java.lang.String">null</Field>
@@ -538,7 +538,7 @@
 	<Field name="FirstUser" type="java.lang.String">null</Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[1c39b780-750b-466f-90ac-87570e514422]]></Field>
 	<Field name="HasUnparsedIdent" type="java.lang.String">null</Field>
-	<Field name="IndChange" type="java.lang.String">null</Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IsActive" type="java.lang.String">null</Field>
 	<Field name="IsParsed" type="java.lang.String"><![CDATA[1]]></Field>
@@ -548,8 +548,8 @@
 	<Field name="IMapExpr" type="com.sunopsis.sql.DbInt"><![CDATA[145]]></Field>
 	<Field name="IOwnerMapAttr" type="com.sunopsis.sql.DbInt"><![CDATA[110]]></Field>
 	<Field name="IOwnerMapProp" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp">null</Field>
-	<Field name="LastUser" type="java.lang.String">null</Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-07-24 03:55:31.0]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="ParsedText" type="java.lang.String">null</Field>
 	<Field name="ParsedTxt" type="java.lang.String"><![CDATA[@{R0}]]></Field>
 	<Field name="PropValues" type="java.lang.String">null</Field>
@@ -584,15 +584,15 @@
 	<Field name="FirstDate" type="java.sql.Timestamp">null</Field>
 	<Field name="FirstUser" type="java.lang.String">null</Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[8595c48e-fe4b-4e2b-8c06-e438d61a6113]]></Field>
-	<Field name="IndChange" type="java.lang.String">null</Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IFcoId" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IMapRef" type="com.sunopsis.sql.DbInt"><![CDATA[187]]></Field>
 	<Field name="IOwnerMapping" type="com.sunopsis.sql.DbInt"><![CDATA[7]]></Field>
 	<Field name="IRefId" type="com.sunopsis.sql.DbInt"><![CDATA[13]]></Field>
 	<Field name="IScId" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp">null</Field>
-	<Field name="LastUser" type="java.lang.String">null</Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-07-24 03:55:31.0]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="Name" type="java.lang.String">null</Field>
 	<Field name="QualifiedName" type="java.lang.String"><![CDATA[GENERIC_SQL.NUMERIC]]></Field>
 	<Field name="QualifiedName2" type="java.lang.String">null</Field>
@@ -613,15 +613,15 @@
 	<Field name="FirstDate" type="java.sql.Timestamp">null</Field>
 	<Field name="FirstUser" type="java.lang.String">null</Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[007b88dd-e8e1-4970-97f8-df3bb62d21e6]]></Field>
-	<Field name="IndChange" type="java.lang.String">null</Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IFcoId" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IMapRef" type="com.sunopsis.sql.DbInt"><![CDATA[184]]></Field>
 	<Field name="IOwnerMapping" type="com.sunopsis.sql.DbInt"><![CDATA[7]]></Field>
 	<Field name="IRefId" type="com.sunopsis.sql.DbInt"><![CDATA[14]]></Field>
 	<Field name="IScId" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp">null</Field>
-	<Field name="LastUser" type="java.lang.String">null</Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-07-24 03:55:31.0]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="Name" type="java.lang.String">null</Field>
 	<Field name="QualifiedName" type="java.lang.String"><![CDATA[GENERIC_SQL.VARCHAR]]></Field>
 	<Field name="QualifiedName2" type="java.lang.String">null</Field>
@@ -642,15 +642,15 @@
 	<Field name="FirstDate" type="java.sql.Timestamp">null</Field>
 	<Field name="FirstUser" type="java.lang.String">null</Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[1874b196-e641-4ac8-9d6c-d44c8672cf59]]></Field>
-	<Field name="IndChange" type="java.lang.String">null</Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IFcoId" type="com.sunopsis.sql.DbInt"><![CDATA[61]]></Field>
 	<Field name="IMapRef" type="com.sunopsis.sql.DbInt"><![CDATA[185]]></Field>
 	<Field name="IOwnerMapping" type="com.sunopsis.sql.DbInt"><![CDATA[7]]></Field>
 	<Field name="IRefId" type="com.sunopsis.sql.DbInt"><![CDATA[173]]></Field>
 	<Field name="IScId" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp">null</Field>
-	<Field name="LastUser" type="java.lang.String">null</Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-07-24 03:55:31.0]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="Name" type="java.lang.String">null</Field>
 	<Field name="QualifiedName" type="java.lang.String"><![CDATA[YEAR]]></Field>
 	<Field name="QualifiedName2" type="java.lang.String">null</Field>
@@ -672,7 +672,7 @@
 	<Field name="FirstUser" type="java.lang.String">null</Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[001f4b5f-bd5b-4ed1-ac49-ef9d9256bfec]]></Field>
 	<Field name="GrpFunc" type="java.lang.String"><![CDATA[AUTO]]></Field>
-	<Field name="IndChange" type="java.lang.String">null</Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="IntDtQualName" type="java.lang.String">null</Field>
 	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IsDerivedName" type="java.lang.String"><![CDATA[1]]></Field>
@@ -682,8 +682,8 @@
 	<Field name="IMapRef" type="com.sunopsis.sql.DbInt"><![CDATA[185]]></Field>
 	<Field name="IOwnerMapCp" type="com.sunopsis.sql.DbInt"><![CDATA[41]]></Field>
 	<Field name="IParMapAttr" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp">null</Field>
-	<Field name="LastUser" type="java.lang.String">null</Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-07-24 03:55:31.0]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="Length" type="java.lang.String">null</Field>
 	<Field name="Name" type="java.lang.String"><![CDATA[YEAR]]></Field>
 	<Field name="Prec" type="java.lang.String">null</Field>
@@ -724,7 +724,7 @@
 	<Field name="FirstUser" type="java.lang.String">null</Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[5ee5423d-2416-420c-bc74-cba86de74830]]></Field>
 	<Field name="HasUnparsedIdent" type="java.lang.String">null</Field>
-	<Field name="IndChange" type="java.lang.String">null</Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IsActive" type="java.lang.String">null</Field>
 	<Field name="IsParsed" type="java.lang.String"><![CDATA[1]]></Field>
@@ -734,8 +734,8 @@
 	<Field name="IMapExpr" type="com.sunopsis.sql.DbInt"><![CDATA[148]]></Field>
 	<Field name="IOwnerMapAttr" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IOwnerMapProp" type="com.sunopsis.sql.DbInt"><![CDATA[211]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp">null</Field>
-	<Field name="LastUser" type="java.lang.String">null</Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-07-24 03:55:31.0]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="ParsedText" type="java.lang.String">null</Field>
 	<Field name="ParsedTxt" type="java.lang.String"><![CDATA[@{R0}]]></Field>
 	<Field name="PropValues" type="java.lang.String">null</Field>
@@ -770,15 +770,15 @@
 	<Field name="FirstDate" type="java.sql.Timestamp">null</Field>
 	<Field name="FirstUser" type="java.lang.String">null</Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[e1fa700a-3846-474d-9797-e19f14ce7679]]></Field>
-	<Field name="IndChange" type="java.lang.String">null</Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IFcoId" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IMapRef" type="com.sunopsis.sql.DbInt"><![CDATA[183]]></Field>
 	<Field name="IOwnerMapping" type="com.sunopsis.sql.DbInt"><![CDATA[7]]></Field>
 	<Field name="IRefId" type="com.sunopsis.sql.DbInt"><![CDATA[33]]></Field>
 	<Field name="IScId" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp">null</Field>
-	<Field name="LastUser" type="java.lang.String">null</Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-07-24 03:55:31.0]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="Name" type="java.lang.String">null</Field>
 	<Field name="QualifiedName" type="java.lang.String"><![CDATA[ORACLE.VARCHAR2]]></Field>
 	<Field name="QualifiedName2" type="java.lang.String">null</Field>
@@ -799,15 +799,15 @@
 	<Field name="FirstDate" type="java.sql.Timestamp">null</Field>
 	<Field name="FirstUser" type="java.lang.String">null</Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[aedf315c-0f05-483a-b329-89aac8529455]]></Field>
-	<Field name="IndChange" type="java.lang.String">null</Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IFcoId" type="com.sunopsis.sql.DbInt"><![CDATA[63]]></Field>
 	<Field name="IMapRef" type="com.sunopsis.sql.DbInt"><![CDATA[190]]></Field>
 	<Field name="IOwnerMapping" type="com.sunopsis.sql.DbInt"><![CDATA[7]]></Field>
 	<Field name="IRefId" type="com.sunopsis.sql.DbInt"><![CDATA[181]]></Field>
 	<Field name="IScId" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp">null</Field>
-	<Field name="LastUser" type="java.lang.String">null</Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-07-24 03:55:31.0]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="Name" type="java.lang.String">null</Field>
 	<Field name="QualifiedName" type="java.lang.String"><![CDATA[YEAR_2013_SALE]]></Field>
 	<Field name="QualifiedName2" type="java.lang.String">null</Field>
@@ -829,7 +829,7 @@
 	<Field name="FirstUser" type="java.lang.String">null</Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[c2fcd415-f88b-46a9-b8c0-c7531e60ea97]]></Field>
 	<Field name="GrpFunc" type="java.lang.String"><![CDATA[AUTO]]></Field>
-	<Field name="IndChange" type="java.lang.String">null</Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="IntDtQualName" type="java.lang.String">null</Field>
 	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IsDerivedName" type="java.lang.String"><![CDATA[1]]></Field>
@@ -839,8 +839,8 @@
 	<Field name="IMapRef" type="com.sunopsis.sql.DbInt"><![CDATA[190]]></Field>
 	<Field name="IOwnerMapCp" type="com.sunopsis.sql.DbInt"><![CDATA[43]]></Field>
 	<Field name="IParMapAttr" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp">null</Field>
-	<Field name="LastUser" type="java.lang.String">null</Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-07-24 03:55:31.0]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="Length" type="java.lang.String">null</Field>
 	<Field name="Name" type="java.lang.String"><![CDATA[YEAR_2013_SALE]]></Field>
 	<Field name="Prec" type="java.lang.String">null</Field>
@@ -855,7 +855,7 @@
 	<Field name="FirstUser" type="java.lang.String">null</Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[95e09af8-ffeb-4e56-bec1-04d5382bc044]]></Field>
 	<Field name="HasUnparsedIdent" type="java.lang.String">null</Field>
-	<Field name="IndChange" type="java.lang.String">null</Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IsActive" type="java.lang.String">null</Field>
 	<Field name="IsParsed" type="java.lang.String"><![CDATA[1]]></Field>
@@ -865,8 +865,8 @@
 	<Field name="IMapExpr" type="com.sunopsis.sql.DbInt"><![CDATA[142]]></Field>
 	<Field name="IOwnerMapAttr" type="com.sunopsis.sql.DbInt"><![CDATA[107]]></Field>
 	<Field name="IOwnerMapProp" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp">null</Field>
-	<Field name="LastUser" type="java.lang.String">null</Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-07-24 03:55:31.0]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="ParsedText" type="java.lang.String">null</Field>
 	<Field name="ParsedTxt" type="java.lang.String"><![CDATA[@{R0}]]></Field>
 	<Field name="PropValues" type="java.lang.String">null</Field>
@@ -901,15 +901,15 @@
 	<Field name="FirstDate" type="java.sql.Timestamp">null</Field>
 	<Field name="FirstUser" type="java.lang.String">null</Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[a4db1e97-cec4-4a57-930d-753b6b4a2bc8]]></Field>
-	<Field name="IndChange" type="java.lang.String">null</Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IFcoId" type="com.sunopsis.sql.DbInt"><![CDATA[61]]></Field>
 	<Field name="IMapRef" type="com.sunopsis.sql.DbInt"><![CDATA[182]]></Field>
 	<Field name="IOwnerMapping" type="com.sunopsis.sql.DbInt"><![CDATA[7]]></Field>
 	<Field name="IRefId" type="com.sunopsis.sql.DbInt"><![CDATA[171]]></Field>
 	<Field name="IScId" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp">null</Field>
-	<Field name="LastUser" type="java.lang.String">null</Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-07-24 03:55:31.0]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="Name" type="java.lang.String">null</Field>
 	<Field name="QualifiedName" type="java.lang.String"><![CDATA[QUARTER]]></Field>
 	<Field name="QualifiedName2" type="java.lang.String">null</Field>
@@ -931,7 +931,7 @@
 	<Field name="FirstUser" type="java.lang.String">null</Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[d52ba903-5e37-4a3f-a976-07ce7edca6a7]]></Field>
 	<Field name="GrpFunc" type="java.lang.String"><![CDATA[AUTO]]></Field>
-	<Field name="IndChange" type="java.lang.String">null</Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="IntDtQualName" type="java.lang.String">null</Field>
 	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IsDerivedName" type="java.lang.String"><![CDATA[1]]></Field>
@@ -941,8 +941,8 @@
 	<Field name="IMapRef" type="com.sunopsis.sql.DbInt"><![CDATA[182]]></Field>
 	<Field name="IOwnerMapCp" type="com.sunopsis.sql.DbInt"><![CDATA[41]]></Field>
 	<Field name="IParMapAttr" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp">null</Field>
-	<Field name="LastUser" type="java.lang.String">null</Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-07-24 03:55:31.0]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="Length" type="java.lang.String"><![CDATA[255]]></Field>
 	<Field name="Name" type="java.lang.String"><![CDATA[QUARTER]]></Field>
 	<Field name="Prec" type="java.lang.String">null</Field>
@@ -964,7 +964,7 @@
 	<Field name="FirstUser" type="java.lang.String">null</Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[bb3422db-1f9c-4bd2-ba31-7dd9be95754b]]></Field>
 	<Field name="GrpFunc" type="java.lang.String"><![CDATA[AUTO]]></Field>
-	<Field name="IndChange" type="java.lang.String">null</Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="IntDtQualName" type="java.lang.String">null</Field>
 	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IsDerivedName" type="java.lang.String"><![CDATA[0]]></Field>
@@ -974,8 +974,8 @@
 	<Field name="IMapRef" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IOwnerMapCp" type="com.sunopsis.sql.DbInt"><![CDATA[45]]></Field>
 	<Field name="IParMapAttr" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp">null</Field>
-	<Field name="LastUser" type="java.lang.String">null</Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-07-24 03:55:31.0]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="Length" type="java.lang.String"><![CDATA[255]]></Field>
 	<Field name="Name" type="java.lang.String"><![CDATA[QUARTER]]></Field>
 	<Field name="Prec" type="java.lang.String">null</Field>
@@ -990,7 +990,7 @@
 	<Field name="FirstUser" type="java.lang.String">null</Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[17c9e25c-08b8-440c-ad43-8bf3e650da55]]></Field>
 	<Field name="HasUnparsedIdent" type="java.lang.String">null</Field>
-	<Field name="IndChange" type="java.lang.String">null</Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IsActive" type="java.lang.String">null</Field>
 	<Field name="IsParsed" type="java.lang.String"><![CDATA[1]]></Field>
@@ -1000,8 +1000,8 @@
 	<Field name="IMapExpr" type="com.sunopsis.sql.DbInt"><![CDATA[143]]></Field>
 	<Field name="IOwnerMapAttr" type="com.sunopsis.sql.DbInt"><![CDATA[108]]></Field>
 	<Field name="IOwnerMapProp" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp">null</Field>
-	<Field name="LastUser" type="java.lang.String">null</Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-07-24 03:55:31.0]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="ParsedText" type="java.lang.String">null</Field>
 	<Field name="ParsedTxt" type="java.lang.String"><![CDATA[@{R0}]]></Field>
 	<Field name="PropValues" type="java.lang.String">null</Field>
@@ -1048,15 +1048,15 @@
 	<Field name="FirstDate" type="java.sql.Timestamp">null</Field>
 	<Field name="FirstUser" type="java.lang.String">null</Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[e814c638-c8b6-4d18-b3a5-4c92f47a0302]]></Field>
-	<Field name="IndChange" type="java.lang.String">null</Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IFcoId" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IMapRef" type="com.sunopsis.sql.DbInt"><![CDATA[196]]></Field>
 	<Field name="IOwnerMapping" type="com.sunopsis.sql.DbInt"><![CDATA[7]]></Field>
 	<Field name="IRefId" type="com.sunopsis.sql.DbInt"><![CDATA[22]]></Field>
 	<Field name="IScId" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp">null</Field>
-	<Field name="LastUser" type="java.lang.String">null</Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-07-24 03:55:31.0]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="Name" type="java.lang.String">null</Field>
 	<Field name="QualifiedName" type="java.lang.String"><![CDATA[XKM Oracle Extract]]></Field>
 	<Field name="QualifiedName2" type="java.lang.String">null</Field>
@@ -1077,15 +1077,15 @@
 	<Field name="FirstDate" type="java.sql.Timestamp">null</Field>
 	<Field name="FirstUser" type="java.lang.String">null</Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[e28a0163-e1f5-480e-8d5a-081036511ac7]]></Field>
-	<Field name="IndChange" type="java.lang.String">null</Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IFcoId" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IMapRef" type="com.sunopsis.sql.DbInt"><![CDATA[192]]></Field>
 	<Field name="IOwnerMapping" type="com.sunopsis.sql.DbInt"><![CDATA[7]]></Field>
 	<Field name="IRefId" type="com.sunopsis.sql.DbInt"><![CDATA[2]]></Field>
 	<Field name="IScId" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp">null</Field>
-	<Field name="LastUser" type="java.lang.String">null</Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-07-24 03:55:31.0]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="Name" type="java.lang.String">null</Field>
 	<Field name="QualifiedName" type="java.lang.String"><![CDATA[GLOBAL]]></Field>
 	<Field name="QualifiedName2" type="java.lang.String">null</Field>
@@ -1148,15 +1148,15 @@
 	<Field name="FirstDate" type="java.sql.Timestamp">null</Field>
 	<Field name="FirstUser" type="java.lang.String">null</Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[a58afc76-72a7-4442-bbab-05896fadd498]]></Field>
-	<Field name="IndChange" type="java.lang.String">null</Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IFcoId" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IMapRef" type="com.sunopsis.sql.DbInt"><![CDATA[195]]></Field>
 	<Field name="IOwnerMapping" type="com.sunopsis.sql.DbInt"><![CDATA[7]]></Field>
 	<Field name="IRefId" type="com.sunopsis.sql.DbInt"><![CDATA[42]]></Field>
 	<Field name="IScId" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp">null</Field>
-	<Field name="LastUser" type="java.lang.String">null</Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-07-24 03:55:31.0]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="Name" type="java.lang.String">null</Field>
 	<Field name="QualifiedName" type="java.lang.String"><![CDATA[XKM Oracle Pivot]]></Field>
 	<Field name="QualifiedName2" type="java.lang.String">null</Field>
@@ -1177,15 +1177,15 @@
 	<Field name="FirstDate" type="java.sql.Timestamp">null</Field>
 	<Field name="FirstUser" type="java.lang.String">null</Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[cff88ae6-99ff-4981-9ba9-848dc582d9b8]]></Field>
-	<Field name="IndChange" type="java.lang.String">null</Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IFcoId" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IMapRef" type="com.sunopsis.sql.DbInt"><![CDATA[194]]></Field>
 	<Field name="IOwnerMapping" type="com.sunopsis.sql.DbInt"><![CDATA[7]]></Field>
 	<Field name="IRefId" type="com.sunopsis.sql.DbInt"><![CDATA[24]]></Field>
 	<Field name="IScId" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp">null</Field>
-	<Field name="LastUser" type="java.lang.String">null</Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-07-24 03:55:31.0]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="Name" type="java.lang.String">null</Field>
 	<Field name="QualifiedName" type="java.lang.String"><![CDATA[IKM Oracle Insert]]></Field>
 	<Field name="QualifiedName2" type="java.lang.String">null</Field>
@@ -1307,15 +1307,15 @@
 	<Field name="FirstDate" type="java.sql.Timestamp">null</Field>
 	<Field name="FirstUser" type="java.lang.String">null</Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[10e4803c-ce0d-4610-b725-a48dbf093ca8]]></Field>
-	<Field name="IndChange" type="java.lang.String">null</Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IFcoId" type="com.sunopsis.sql.DbInt"><![CDATA[63]]></Field>
 	<Field name="IMapRef" type="com.sunopsis.sql.DbInt"><![CDATA[189]]></Field>
 	<Field name="IOwnerMapping" type="com.sunopsis.sql.DbInt"><![CDATA[7]]></Field>
 	<Field name="IRefId" type="com.sunopsis.sql.DbInt"><![CDATA[179]]></Field>
 	<Field name="IScId" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp">null</Field>
-	<Field name="LastUser" type="java.lang.String">null</Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-07-24 03:55:31.0]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="Name" type="java.lang.String">null</Field>
 	<Field name="QualifiedName" type="java.lang.String"><![CDATA[QUARTER_NUM]]></Field>
 	<Field name="QualifiedName2" type="java.lang.String">null</Field>
@@ -1337,7 +1337,7 @@
 	<Field name="FirstUser" type="java.lang.String">null</Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[789c5f38-21c6-4dcc-bfa6-d78a75d97e74]]></Field>
 	<Field name="GrpFunc" type="java.lang.String"><![CDATA[AUTO]]></Field>
-	<Field name="IndChange" type="java.lang.String">null</Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="IntDtQualName" type="java.lang.String">null</Field>
 	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IsDerivedName" type="java.lang.String"><![CDATA[1]]></Field>
@@ -1347,8 +1347,8 @@
 	<Field name="IMapRef" type="com.sunopsis.sql.DbInt"><![CDATA[189]]></Field>
 	<Field name="IOwnerMapCp" type="com.sunopsis.sql.DbInt"><![CDATA[43]]></Field>
 	<Field name="IParMapAttr" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp">null</Field>
-	<Field name="LastUser" type="java.lang.String">null</Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-07-24 03:55:31.0]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="Length" type="java.lang.String"><![CDATA[250]]></Field>
 	<Field name="Name" type="java.lang.String"><![CDATA[QUARTER_NUM]]></Field>
 	<Field name="Prec" type="java.lang.String">null</Field>
@@ -1363,7 +1363,7 @@
 	<Field name="FirstUser" type="java.lang.String">null</Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[92740b40-4829-4bff-95c4-1c71c977c81b]]></Field>
 	<Field name="HasUnparsedIdent" type="java.lang.String">null</Field>
-	<Field name="IndChange" type="java.lang.String">null</Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IsActive" type="java.lang.String">null</Field>
 	<Field name="IsParsed" type="java.lang.String"><![CDATA[1]]></Field>
@@ -1373,8 +1373,8 @@
 	<Field name="IMapExpr" type="com.sunopsis.sql.DbInt"><![CDATA[141]]></Field>
 	<Field name="IOwnerMapAttr" type="com.sunopsis.sql.DbInt"><![CDATA[106]]></Field>
 	<Field name="IOwnerMapProp" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp">null</Field>
-	<Field name="LastUser" type="java.lang.String">null</Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-07-24 03:55:31.0]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="ParsedText" type="java.lang.String">null</Field>
 	<Field name="ParsedTxt" type="java.lang.String"><![CDATA[@{R0}]]></Field>
 	<Field name="PropValues" type="java.lang.String">null</Field>
@@ -1493,15 +1493,15 @@
 	<Field name="FirstDate" type="java.sql.Timestamp">null</Field>
 	<Field name="FirstUser" type="java.lang.String">null</Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[fba21d40-f309-4e7a-9230-cb13368b8bdb]]></Field>
-	<Field name="IndChange" type="java.lang.String">null</Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IFcoId" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IMapRef" type="com.sunopsis.sql.DbInt"><![CDATA[197]]></Field>
 	<Field name="IOwnerMapping" type="com.sunopsis.sql.DbInt"><![CDATA[7]]></Field>
 	<Field name="IRefId" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
 	<Field name="IScId" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp">null</Field>
-	<Field name="LastUser" type="java.lang.String">null</Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-07-24 03:55:31.0]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="Name" type="java.lang.String">null</Field>
 	<Field name="QualifiedName" type="java.lang.String"><![CDATA[EKM SQL Mono-Connect]]></Field>
 	<Field name="QualifiedName2" type="java.lang.String">null</Field>
@@ -1522,15 +1522,15 @@
 	<Field name="FirstDate" type="java.sql.Timestamp">null</Field>
 	<Field name="FirstUser" type="java.lang.String">null</Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[78bd250f-6ef5-42d9-b57f-8ff9b9059560]]></Field>
-	<Field name="IndChange" type="java.lang.String">null</Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IFcoId" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IMapRef" type="com.sunopsis.sql.DbInt"><![CDATA[193]]></Field>
 	<Field name="IOwnerMapping" type="com.sunopsis.sql.DbInt"><![CDATA[7]]></Field>
 	<Field name="IRefId" type="com.sunopsis.sql.DbInt"><![CDATA[15]]></Field>
 	<Field name="IScId" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp">null</Field>
-	<Field name="LastUser" type="java.lang.String">null</Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-07-24 03:55:31.0]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="Name" type="java.lang.String">null</Field>
 	<Field name="QualifiedName" type="java.lang.String"><![CDATA[HR_TARGET_LOGICAL]]></Field>
 	<Field name="QualifiedName2" type="java.lang.String">null</Field>
@@ -1675,7 +1675,7 @@
 	<Field name="FirstUser" type="java.lang.String">null</Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[0878664b-2143-41a2-8fde-f238a467c726]]></Field>
 	<Field name="HasUnparsedIdent" type="java.lang.String">null</Field>
-	<Field name="IndChange" type="java.lang.String">null</Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IsActive" type="java.lang.String">null</Field>
 	<Field name="IsParsed" type="java.lang.String"><![CDATA[0]]></Field>
@@ -1685,8 +1685,8 @@
 	<Field name="IMapExpr" type="com.sunopsis.sql.DbInt"><![CDATA[151]]></Field>
 	<Field name="IOwnerMapAttr" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IOwnerMapProp" type="com.sunopsis.sql.DbInt"><![CDATA[216]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp">null</Field>
-	<Field name="LastUser" type="java.lang.String">null</Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-07-24 03:55:31.0]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="ParsedText" type="java.lang.String">null</Field>
 	<Field name="ParsedTxt" type="java.lang.String">null</Field>
 	<Field name="PropValues" type="java.lang.String">null</Field>
@@ -1728,7 +1728,7 @@
 	<Field name="FirstUser" type="java.lang.String">null</Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[dc7eea89-ea31-4c9c-926a-56272a8bb6f2]]></Field>
 	<Field name="HasUnparsedIdent" type="java.lang.String">null</Field>
-	<Field name="IndChange" type="java.lang.String">null</Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IsActive" type="java.lang.String">null</Field>
 	<Field name="IsParsed" type="java.lang.String"><![CDATA[0]]></Field>
@@ -1738,8 +1738,8 @@
 	<Field name="IMapExpr" type="com.sunopsis.sql.DbInt"><![CDATA[150]]></Field>
 	<Field name="IOwnerMapAttr" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IOwnerMapProp" type="com.sunopsis.sql.DbInt"><![CDATA[215]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp">null</Field>
-	<Field name="LastUser" type="java.lang.String">null</Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-07-24 03:55:31.0]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="ParsedText" type="java.lang.String">null</Field>
 	<Field name="ParsedTxt" type="java.lang.String">null</Field>
 	<Field name="PropValues" type="java.lang.String">null</Field>
@@ -2011,22 +2011,22 @@
 </Object>
 <Object class="com.sunopsis.dwg.dbobj.SnpMapExpr">
 		<Field name="ExecOnHint" type="java.lang.String"><![CDATA[N]]></Field>
-	<Field name="FirstDate" type="java.sql.Timestamp">null</Field>
-	<Field name="FirstUser" type="java.lang.String">null</Field>
-	<Field name="GlobalId" type="java.lang.String"><![CDATA[57beb23d-8b6e-4c26-b98a-fcf87ee4ef33]]></Field>
+	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2019-07-24 03:55:31.0]]></Field>
+	<Field name="FirstUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[3248d907-a7ff-4e9a-bc4a-69620e3b53ab]]></Field>
 	<Field name="HasUnparsedIdent" type="java.lang.String">null</Field>
-	<Field name="IndChange" type="java.lang.String">null</Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[I]]></Field>
 	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IsActive" type="java.lang.String">null</Field>
 	<Field name="IsParsed" type="java.lang.String"><![CDATA[0]]></Field>
 	<Field name="IDisTechRef" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IExOnLsRef" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IMapCp" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="IMapExpr" type="com.sunopsis.sql.DbInt"><![CDATA[221]]></Field>
+	<Field name="IMapExpr" type="com.sunopsis.sql.DbInt"><![CDATA[222]]></Field>
 	<Field name="IOwnerMapAttr" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IOwnerMapProp" type="com.sunopsis.sql.DbInt"><![CDATA[204]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp">null</Field>
-	<Field name="LastUser" type="java.lang.String">null</Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-07-24 03:55:31.0]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="ParsedText" type="java.lang.String">null</Field>
 	<Field name="ParsedTxt" type="java.lang.String">null</Field>
 	<Field name="PropValues" type="java.lang.String">null</Field>
@@ -2046,8 +2046,8 @@
         <semanticModel xmi:type='DI:SimpleSemanticModelBridge' typeInfo='SYMBOLIC'/>
         <size xmi:type='DI:Dimension' height='80.0' width='200.0'/>
       </contained>
-      <contained xmi:type='DI:GraphNode' xmi:id='id1398961a-66e2-4662-89f6-7eb0976335ba'>
-        <anchorage xmi:type='DI:GraphConnector' xmi:id='idb082005b-7980-4ef5-b454-c7c95aa37c00' graphEdge='id3a2c594f-e83b-48a1-9bba-f62311370bc2'/>
+      <contained xmi:type='DI:GraphNode' xmi:id='id18cff628-54c2-437d-a3c3-db948ce2c279'>
+        <anchorage xmi:type='DI:GraphConnector' xmi:id='id584f2c88-989e-4ee0-81a9-ca22a97c9de1' graphEdge='id5d022282-736b-4f89-b0f6-ddd7b7014ba0'/>
         <semanticModel xmi:type='DI:SimpleSemanticModelBridge' typeInfo='Port-East'/>
       </contained>
       <position xmi:type='DI:Point' x='75.0' y='105.0'/>
@@ -2074,8 +2074,8 @@
         <semanticModel xmi:type='DI:SimpleSemanticModelBridge' typeInfo='SYMBOLIC'/>
         <size xmi:type='DI:Dimension' height='80.0' width='200.0'/>
       </contained>
-      <contained xmi:type='DI:GraphNode' xmi:id='idbf702dbf-35bc-4a72-a89a-15b49c964f0e'>
-        <anchorage xmi:type='DI:GraphConnector' xmi:id='id45f193da-8e5b-413b-9104-f8ce9ad8707d' graphEdge='idc96c0ba9-4b03-414b-a5e4-18e25e87892f'/>
+      <contained xmi:type='DI:GraphNode' xmi:id='id5c58cf7b-0a15-48fb-a6b1-24e304d74e14'>
+        <anchorage xmi:type='DI:GraphConnector' xmi:id='id15336747-118a-4244-8e3b-f1a0159a6032' graphEdge='id2585feeb-fbfd-469c-b321-1586c13a9846'/>
         <semanticModel xmi:type='DI:SimpleSemanticModelBridge' typeInfo='Port-West'/>
       </contained>
       <position xmi:type='DI:Point' x='555.0' y='120.0'/>
@@ -2102,12 +2102,12 @@
         <semanticModel xmi:type='DI:SimpleSemanticModelBridge' typeInfo='SYMBOLIC'/>
         <size xmi:type='DI:Dimension' height='120.0' width='210.0'/>
       </contained>
-      <contained xmi:type='DI:GraphNode' xmi:id='id988359fa-09d9-4d51-881f-47248980eadb'>
-        <anchorage xmi:type='DI:GraphConnector' xmi:id='id11056976-f6a8-4cb9-93ff-1f10b50f5991' graphEdge='idc96c0ba9-4b03-414b-a5e4-18e25e87892f'/>
+      <contained xmi:type='DI:GraphNode' xmi:id='id538a591a-20ce-4560-bb00-ac6a6a942700'>
+        <anchorage xmi:type='DI:GraphConnector' xmi:id='idddec15a6-e39c-4b49-8baf-c00579861f6a' graphEdge='id2585feeb-fbfd-469c-b321-1586c13a9846'/>
         <semanticModel xmi:type='DI:SimpleSemanticModelBridge' typeInfo='Port-East'/>
       </contained>
-      <contained xmi:type='DI:GraphNode' xmi:id='id0c7e803c-99f5-4852-83cc-c9ea5e6f8475'>
-        <anchorage xmi:type='DI:GraphConnector' xmi:id='id2ab0c45b-b944-4769-9b2f-430f85b945bc' graphEdge='id3a2c594f-e83b-48a1-9bba-f62311370bc2'/>
+      <contained xmi:type='DI:GraphNode' xmi:id='id3e6154cd-32d8-489a-9480-db2855ed5160'>
+        <anchorage xmi:type='DI:GraphConnector' xmi:id='id4c437ab3-50ce-4be8-8295-4069f98088fb' graphEdge='id5d022282-736b-4f89-b0f6-ddd7b7014ba0'/>
         <semanticModel xmi:type='DI:SimpleSemanticModelBridge' typeInfo='Port-West'/>
       </contained>
       <position xmi:type='DI:Point' x='345.0' y='120.0'/>
@@ -2125,12 +2125,12 @@
       <semanticModel xmi:type='DI:CoreSemanticModelBridge' element='LogicalInterfaceComponent:PIVOT:LogicalAttributeDisplayerNode:5fc09b88-2c05-4334-b6c6-1aad9f7037d6' presentation='SYMBOLIC'/>
       <size xmi:type='DI:Dimension' height='120.0' width='210.0'/>
     </contained>
-    <contained xmi:type='DI:GraphEdge' xmi:id='idc96c0ba9-4b03-414b-a5e4-18e25e87892f' anchor='id11056976-f6a8-4cb9-93ff-1f10b50f5991 id45f193da-8e5b-413b-9104-f8ce9ad8707d'>
+    <contained xmi:type='DI:GraphEdge' xmi:id='id2585feeb-fbfd-469c-b321-1586c13a9846' anchor='idddec15a6-e39c-4b49-8baf-c00579861f6a id15336747-118a-4244-8e3b-f1a0159a6032'>
       <semanticModel xmi:type='DI:CoreSemanticModelBridge' element='LogicalInterfaceComponent:EDGE:LogicalSimpleEdge:5fc09b88-2c05-4334-b6c6-1aad9f7037d6->6f5c5f68-a426-4784-ae3c-e97dcb18bddc'/>
       <waypoint xmi:type='DI:Point' x='554.0' y='180.0'/>
       <waypoint xmi:type='DI:Point' x='556.0' y='160.0'/>
     </contained>
-    <contained xmi:type='DI:GraphEdge' xmi:id='id3a2c594f-e83b-48a1-9bba-f62311370bc2' anchor='idb082005b-7980-4ef5-b454-c7c95aa37c00 id2ab0c45b-b944-4769-9b2f-430f85b945bc'>
+    <contained xmi:type='DI:GraphEdge' xmi:id='id5d022282-736b-4f89-b0f6-ddd7b7014ba0' anchor='id584f2c88-989e-4ee0-81a9-ca22a97c9de1 id4c437ab3-50ce-4be8-8295-4069f98088fb'>
       <semanticModel xmi:type='DI:CoreSemanticModelBridge' element='LogicalInterfaceComponent:EDGE:LogicalSimpleEdge:2f63eae3-cde7-4a17-b92e-bfa22b2b061c->5fc09b88-2c05-4334-b6c6-1aad9f7037d6'/>
       <waypoint xmi:type='DI:Point' x='274.0' y='145.0'/>
       <waypoint xmi:type='DI:Point' x='346.0' y='180.0'/>
@@ -2189,7 +2189,7 @@
 	<Field name="FirstUser" type="java.lang.String">null</Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[14646edd-ea98-4c8e-8932-44f73b40b39f]]></Field>
 	<Field name="HasUnparsedIdent" type="java.lang.String">null</Field>
-	<Field name="IndChange" type="java.lang.String">null</Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IsActive" type="java.lang.String">null</Field>
 	<Field name="IsParsed" type="java.lang.String"><![CDATA[0]]></Field>
@@ -2199,8 +2199,8 @@
 	<Field name="IMapExpr" type="com.sunopsis.sql.DbInt"><![CDATA[146]]></Field>
 	<Field name="IOwnerMapAttr" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IOwnerMapProp" type="com.sunopsis.sql.DbInt"><![CDATA[203]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp">null</Field>
-	<Field name="LastUser" type="java.lang.String">null</Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-07-24 03:55:31.0]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="ParsedText" type="java.lang.String">null</Field>
 	<Field name="ParsedTxt" type="java.lang.String">null</Field>
 	<Field name="PropValues" type="java.lang.String">null</Field>
